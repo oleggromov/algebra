@@ -119,7 +119,7 @@ And **exponentiation** in turn is just a shortcut for multiplication:
 
 ### Exponentiation
 
-**Exponentiation** is an operation written as `b^n` where `b` is *base* and `n is *exponent*. Exponentiation for the nth means that a number should be multiplied by itself for `n` times. Or in another words exponent shows how many same factors (bases) are multiplied together.
+**Exponentiation** is an operation written as `b^n` where `b` is *base* and `n` is *exponent*. Exponentiation for the nth means that a number should be multiplied by itself for `n` times. Or in another words exponent shows how many same factors (bases) are multiplied together.
 
 > * `b²` is a *square of b* because the area of `b × b` square is b²
 > * `b³` is a *cube of b*
