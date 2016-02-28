@@ -14,13 +14,15 @@ is a term.
 
 
 ### Factors
-**Factor** is any term another term can be divided by or another term can be multiplied by to get the initial one.
+**Factor** is something the term is divisible by or something that can be multiplied by another set of factors to equal the initial one.
 
 For example, for the term `5x × 7y × 2z` any of the below terms is a factor:
 
 * `5`
 * `5x`
 * and even `5x7z`
+
+> I've got stuck on the question „why is `-y` a factor of `6x²y³`“ but with the forum help and reviewing the associated video understood why. The expression `6x²y³` can be divided by `-y` irrelative of its negative sign, because the result will be `-6x²y²`. `-y` can be also multiplied by `-6x²y²` to equal the initial expression, so the question seems to be solved.
 
 **Coefficient** is a constant factor.
 
