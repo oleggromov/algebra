@@ -96,6 +96,7 @@ The degree and number of terms within the polynomials multiplication product can
 
 ## Questions
 * why does the triangle inscribed into the rectangle area always equal rectangle's area divided by two?
+* what is the physical (or real) meaning of polynomials?
 
 ## Lesson timing
 
