@@ -84,7 +84,7 @@ The operations succession should be kept to make evaluation and substitution cor
 
 *March 3, 2016*
 
-*The repetition including practical tasks took about 20 minutes while abstracting took about 40 minutes.*
+*The repetition including practical tasks took about 20 minutes while abstracting and timings calculation took about 50 minutes.*
 
 ### Past lessons timing chart
 
