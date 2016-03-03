@@ -102,4 +102,4 @@ The degree and number of terms within the polynomials multiplication product can
 
 *March 1, 2016*
 
-*The lesson itself took 1:50, practical question about 50 minutes aand abstracting about half an hour.*
+*The lesson itself took 1:50, practical question about 50 minutes and abstracting about half an hour.*
